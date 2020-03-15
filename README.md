@@ -3,7 +3,7 @@ REST API for PostGREST
 
 
 
-      - Docker-compose.yml
+      - First, the following should be add to the Docker-compose.yml file:
         en
       ```yaml
       postgrest:
